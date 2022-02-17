@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+54UDq8Zgb2BHBfRXfvHd1j5nNShWO1bHUnk8wLYPLxi1CrClEeXNUMaUdHy7Mmk5FaFyiL2/ZCe3HfmptRyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABFC156\\source\\repos\\BETShop\\BETShop.Domain\\BETShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nuget\\Cache\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

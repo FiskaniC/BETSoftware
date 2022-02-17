@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BETShop.Application\BETShop.Application.csproj" />
+    <ProjectReference Include="..\BETShop.Domain\BETShop.Domain.csproj" />
+    <ProjectReference Include="..\BETShop.Infrastructure\BETShop.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

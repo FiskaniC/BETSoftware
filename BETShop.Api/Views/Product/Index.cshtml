@@ -1,0 +1,33 @@
+﻿@using BETShop.Application.Extensions
+@model BETShop.Domain.Models.ProductsByFilter
+
+<p class="h3">Products</p>
+
+<div class="container">
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col-4">
+                <div class="card">
+                    <img class="card-img-top" src="~/images/@product.Image">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">R(@product.Price.ToTwoDecimals())</h6>
+                        <p class="card-text">@product.Quantity In stock</p>
+                        <a asp-controller="Cart" asp-action="Add" asp-route-id="@product.Id" class="btn btn-primary">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <div class="row">
+        <nav>
+            <ul class="pagination">
+                @for (var i = 0; i < Model.Pages; i++)
+                {
+                    <li class="page-item"><a asp-controller="Product" asp-action="Index" asp-route-id="@i" class="page-link">@i</a></li>
+                }
+            </ul>
+        </nav>
+    </div>
+</div>

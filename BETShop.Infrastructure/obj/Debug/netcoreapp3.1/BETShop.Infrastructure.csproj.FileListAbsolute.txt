@@ -1,0 +1,17 @@
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Infrastructure.deps.json
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Infrastructure.runtimeconfig.json
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Infrastructure.runtimeconfig.dev.json
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Infrastructure.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Infrastructure.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Domain.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Domain.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.AssemblyInfo.cs
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.csproj.CopyComplete
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.genruntimeconfig.cache
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Application.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\bin\Debug\netcoreapp3.1\BETShop.Application.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Infrastructure\obj\Debug\netcoreapp3.1\BETShop.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+﻿@model SignUpModel
+
+    <p class="h3">Sign In</p>
+
+    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert">
+    </div>
+
+    <form asp-controller="Account" asp-action="Signup" method="post">
+        <div class="form-group">
+            <input asp-for="Email" type="email" class="form-control" placeholder="Enter Email">
+            <span asp-validation-for="Email" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <input asp-for="Password" type="password" class="form-control" placeholder="Enter Password">
+            <span asp-validation-for="Password" class="form-text text-muted"></span>
+        </div>
+        <div class="form-group">
+            <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password">
+            <span asp-validation-for="ConfirmPassword" class="form-text text-muted"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Sign Up</button>
+        <a asp-controller="Account" asp-action="Signin" class="btn btn-outline-primary">Sign In</a>
+    </form>

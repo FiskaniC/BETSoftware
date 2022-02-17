@@ -1,0 +1,9 @@
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\bin\Debug\netcoreapp3.1\BETShop.Domain.deps.json
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\bin\Debug\netcoreapp3.1\BETShop.Domain.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\bin\Debug\netcoreapp3.1\BETShop.Domain.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.AssemblyInfoInputs.cache
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.AssemblyInfo.cs
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.dll
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.pdb
+C:\Users\ABFC156\source\repos\BETShop\BETShop.Domain\obj\Debug\netcoreapp3.1\BETShop.Domain.csprojAssemblyReference.cache
